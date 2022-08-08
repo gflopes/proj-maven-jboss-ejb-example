@@ -1,7 +1,0 @@
-br/com/gustavo/ws/dao/TestDao.class
-exception/ExcecaoPadrao.class
-br/com/gustavo/ws/retorno/Retorno.class
-br/com/gustavo/ws/utils/Constantes.class
-br/com/gustavo/ws/entity/GrupoEntity.class
-br/com/gustavo/ws/service/TestService.class
-br/com/gustavo/ws/retorno/GrupoRetorno.class
